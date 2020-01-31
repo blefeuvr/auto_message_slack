@@ -10,7 +10,7 @@ import slack
 
 SLACK_USERNAME="Père siffleur"
 MESSAGE=\
-""
+"Hello world!"
 
 def send_message(client, channel, message):
     try:
